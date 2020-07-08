@@ -4,5 +4,4 @@
   <artifactId>MVN_WEB_APP</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>MVN_WEB_APP</name>
-  <packaging>war</packaging>
 </project>
